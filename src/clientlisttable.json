@@ -1,0 +1,12 @@
+[
+{"CopmanyName": "Solarise Ltd", "DigitalFabric": "0.9", "Availability": "0.9", "Compliance": "0.9", "Economic": "0.8", "Environment": "0.7", "UserExperience": "0.8"},
+{"CopmanyName": "BrandName01", "DigitalFabric": "0.5", "Availability": "0.5", "Compliance": "0.5", "Economic": "0.5", "Environment": "0.5", "UserExperience": "0.5"},
+{"CopmanyName": "BrandName02", "DigitalFabric": "0.1", "Availability": "0.1", "Compliance": "0.1", "Economic": "0.1", "Environment": "0.1", "UserExperience": "0.2"},
+{"CopmanyName": "BrandName03", "DigitalFabric": "0.5", "Availability": "0.5", "Compliance": "0.5", "Economic": "0.5", "Environment": "0.5", "UserExperience": "0.5"},
+{"CopmanyName": "Solarise Ltd", "DigitalFabric": "0.9", "Availability": "0.9", "Compliance": "0.9", "Economic": "0.8", "Environment": "0.7", "UserExperience": "0.8"},
+{"CopmanyName": "BrandName01", "DigitalFabric": "0.5", "Availability": "0.5", "Compliance": "0.5", "Economic": "0.5", "Environment": "0.5", "UserExperience": "0.5"},
+{"CopmanyName": "BrandName02", "DigitalFabric": "0.1", "Availability": "0.1", "Compliance": "0.1", "Economic": "0.1", "Environment": "0.1", "UserExperience": "0.2"},
+{"CopmanyName": "BrandName03", "DigitalFabric": "0.5", "Availability": "0.5", "Compliance": "0.5", "Economic": "0.5", "Environment": "0.5", "UserExperience": "0.5"},
+{"CopmanyName": "BrandName02", "DigitalFabric": "0.1", "Availability": "0.1", "Compliance": "0.1", "Economic": "0.1", "Environment": "0.1", "UserExperience": "0.2"},
+{"CopmanyName": "BrandName03", "DigitalFabric": "0.5", "Availability": "0.5", "Compliance": "0.5", "Economic": "0.5", "Environment": "0.5", "UserExperience": "0.5"}
+]
