@@ -131,7 +131,7 @@ const MainBody = () => {
   };
   return (
     <>
-      <Header />
+      <Header clientview = {true}/>
 
       <div className="main-body">
         <div className="d-flex justify-content-end align-items-center my-1">

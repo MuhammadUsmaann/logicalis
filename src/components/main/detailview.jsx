@@ -198,6 +198,7 @@ const Detailview = () => {
                           alt=""
                           className="profileimg"
                         />
+                        <img src={activeicon} alt="" className="activestatusprofile"/>
                       </div>
                     </div>
                     <div className="col-8 py-4 px-0 border rounded10 shadow004">
@@ -233,8 +234,8 @@ const Detailview = () => {
                         </p>
                       </div>
                     </div>
-                    <div className="col-4 height150 px-3 py-3 px-0 border rounded10 shadow004">
-                      <p className=" font-10 font-weight-600 font-light-grey">
+                    <div className="col-4 height150 px-3 py-3 px-0 border rounded10 shadow004 position-relative">
+                      <p className=" font-10 font-weight-600 font-light-grey box-min-heading">
                         NPS:
                       </p>
                       <div className="m-auto h-100 d-flex justify-content-center align-items-center">
@@ -266,7 +267,7 @@ const Detailview = () => {
                     </div>
                     <div className="col-4 height150   px-0 ">
                       <div className="border rounded10 p-3 mr-3 shadow004 h-100">
-                        <p className=" font-10 font-weight-600 font-light-grey">
+                        <p className=" font-10 font-weight-600 font-light-grey box-min-heading">
                           CURRENT TICKETS:
                         </p>
                         <div className="m-auto h-100 d-flex justify-content-center align-items-center">
@@ -277,7 +278,7 @@ const Detailview = () => {
                       </div>
                     </div>
                     <div className="col-4 height150 px-3 py-3 px-0 border rounded10 shadow004">
-                      <p className=" font-10 font-weight-600 font-light-grey">
+                      <p className=" font-10 font-weight-600 font-light-grey box-min-heading">
                         PREVIOUS TICKETS
                       </p>
                       <div className="m-auto h-100 d-flex justify-content-center align-items-center">
